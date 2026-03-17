@@ -1,7 +1,7 @@
 # Menu Venture MVP
 
 ## 🇺🇸 English
-An AI-powered MVP built with LangGraph that analyzes Naver DataLab search trends to support menu-based startup decisions.
+An MVP that integrates a LangGraph-based AI agent to retrieve and analyze Naver DataLab search trends for menu-based business decision support.
 
 ### Features
 - Naver DataLab integration
