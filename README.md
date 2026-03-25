@@ -1,7 +1,7 @@
 # Menu Venture MVP
 
 ## 🇺🇸 English
-An MVP that integrates a LangGraph-based AI agent to retrieve and analyze Naver DataLab search trends for menu-based business decision support.
+An MVP that integrates a LangChain-based AI agent to retrieve and analyze Naver DataLab search trends for menu-based business decision support.
 
 ### Features
 - Naver DataLab integration
@@ -11,7 +11,7 @@ An MVP that integrates a LangGraph-based AI agent to retrieve and analyze Naver 
 ---
 
 ## 🇰🇷 한국어
-LangGraph 기반 AI 에이전트를 활용하여 네이버 데이터랩 검색 트렌드를 분석하고, 메뉴 기반 창업 의사결정을 지원하는 MVP 프로젝트입니다.
+LangChain 기반 AI 에이전트를 활용하여 네이버 데이터랩 검색 트렌드를 분석하고, 메뉴 기반 창업 의사결정을 지원하는 MVP 프로젝트입니다.
 
 ### 주요 기능
 - 네이버 데이터랩 연동
